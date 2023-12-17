@@ -7,6 +7,6 @@
     {
         public const string GUID = "com.graze.gorillatag.scannableplayeritems";
         public const string Name = "ScannablePlayerItems";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
     }
 }
