@@ -80,13 +80,15 @@ namespace ScannablePlayerItems
                 node.nodeType = 0;
                 if (obj.name.Contains("BB"))
                 {
-                    node.headerText = "Pro Flashlight";
-                    node.subText = "Flashlight But Better";
+
+                    node.headerText = "Flashlight";
+                    node.subText = "Make Sure to Charge me!";
+
                 }
                 else
                 {
-                    node.headerText = "Flashlight";
-                    node.subText = "Make Sure to Charge me!";
+                    node.headerText = "Pro Flashlight";
+                    node.subText = "Flashlight But Better";
                 }
                 node.scrapValue = 0;
                 node.minRange = 1; 
